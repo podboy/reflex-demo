@@ -1,0 +1,11 @@
+*.py[cod]
+__pycache__/
+
+assets/external/
+
+*.db
+.web
+.states
+
+backend.zip
+frontend.zip
