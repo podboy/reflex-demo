@@ -1,0 +1,4 @@
+[users]
+demo = "$argon2id$v=19$m=65536,t=8,p=4$5zZyIQNUl8dXYpUVmLJ2AA$FF6xqP+bR3hQlGK2tQu8pkZGUs8BeGHBCZ3httHMTo0"
+
+[argon2]

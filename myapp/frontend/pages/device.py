@@ -1,7 +1,9 @@
 import reflex as rx
+from reflex_xpw_defender import Defender
 
 
 @rx.page(route="/device")
+@Defender.no_login_required
 def device() -> rx.Component:
     return rx.vstack(
         rx.mobile_only(
