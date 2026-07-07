@@ -1,4 +1,4 @@
 reflex-xpw-frontend>=0.3
 reflex-xpw-backend>=0.3
-reflex==0.8.25
+reflex==0.9.6.post1
 fastapi

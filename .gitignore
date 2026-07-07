@@ -6,6 +6,7 @@ assets/external/
 *.db
 .web
 .states
+reflex.lock
 
 backend.zip
 frontend.zip
